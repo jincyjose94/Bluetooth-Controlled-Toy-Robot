@@ -1,5 +1,7 @@
 /*main program*/
-#include "functions.h"
+#include "motor.h"
+#include "uart_init.h"
+#include "uart_tx_rx.h"
 
 #include <cr_section_macros.h>
 #include <NXP/crp.h>
